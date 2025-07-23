@@ -1,0 +1,7 @@
+numpy
+pandas
+pymongo
+flsak
+seaborn
+skikit-learn
+matplotlib
